@@ -1,4 +1,4 @@
-# Model Readme
+# Personalized Clothing Size Prediction Model
 
 ## Description
 This readme file provides information about the model.
